@@ -263,42 +263,34 @@
       "filterable": 1,
       "jar": "https://raw.iqiq.io/liu673cn/box/main/sub/ext/qq_qiyi_mgtv.jpg"
     },
-    // {
-    //   "key": "t4_公共",
-    //   "name": "📡公共(T4)",
-    //   "type": 4,
-    //   "api": "https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10",
-    //   "searchable": 1,
-    //   "quickSearch": 1,
-    //   "filterable": 0
-    // },
-    // {
-    //   "key": "t4_搜片",
-    //   "name": "📡搜片(T4)",
-    //   "type": 4,
-    //   "api": "https://t4.secan.icu/vod?sites=all&timeout=7",
-    //   "searchable": 1,
-    //   "quickSearch": 1,
-    //   "filterable": 1
-    // },
-    // {
-    //   "key": "t4_合集",
-    //   "name": "📡合集(T4)",
-    //   "type": 4,
-    //   "api": "https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10",
-    //   "searchable": 1,
-    //   "quickSearch": 1,
-    //   "filterable": 0
-    // },
-    // {
-    //   "key": "t4_聚合",
-    //   "name": "📡聚合(T4)",
-    //   "type": 4,
-    //   "api": "https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=5",
-    //   "searchable": 1,
-    //   "quickSearch": 1,
-    //   "filterable": 1
-    // },
+
+    {
+      "key": "t4_搜片",
+      "name": "📡搜片(T4)",
+      "type": 4,
+      "api": "https://t4.secan.icu/vod?sites=all&timeout=7",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "t4_合集",
+      "name": "📡合集(T4)",
+      "type": 4,
+      "api": "https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "t4_聚合",
+      "name": "📡聚合(T4)",
+      "type": 4,
+      "api": "https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=5",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "csp_Gitcafe",
       "name": "📜小纸条(云盘)",
