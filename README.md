@@ -1,80 +1,119 @@
-### TVBox 开源版
-- TVBox [GitHub社区](https://github.com/CatVodTVOfficial/TVBoxOSC) 根据官方代码仓生成的安卓应用。  
-- 通过导入特点资源接口,解析各类爬虫源、XP源、采集源等。完全无任何限制,也无任何广告。  
-- 原版支持本地功能，聚合模式，支持多种视频格式，增加分辨率、时间及缓冲速度显示，优化采集等等。
-- 新UI聚合检索(长按影片)，支持读取挂载阿里网盘资源，其他功能同原版。
-- 设置 — 配置地址 — 输入你的站源规则 — 确定即可；  
-- 新版支持多jar(爬虫包)，增加直播节目预告 EGP。
-- 编辑器 PC Web版 [CatVodTVJsonEditor](https://catvodtvofficial.github.io/CatVodTVJsonEditor/)
-### 版本
-- 1.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico1_50.jpg) 官方仓库生成 - [TVBox_20221005-0959-.apk](https://liucn.lanzouv.com/i0rCM0dccquj)
+tvbox & diyp & kodi 配置文件。所有资源均来自网络，都源于各路大神用爱发光，如有侵权，请联系删除。
+1. tvbox配置：
+   
+   （1）0820.json  较全面的源，jar的来源于WEWA（饭太硬）的jar包；
+   
+   （2）0820.txt  精简的源，jar的来源唐三的jar包；
+   
+   （3）0821.json  jar的来源于俊于的jar包，在原有俊于配置的基础上添加了一些XBiu、XBiuBiu、XF规则的源；
+   
+   （4）0827.json  完全来源于fongmi的jar包和配置；
+   
+   （5）0828.json  完全来源于唐三的jar包和配置；
+   
+   （6）0829.json  完全来源于俊于的jar包和配置；
+   
+   （7）js.json  资源来源于watson chen收集整理的道长drpy(js)资源；
+   
+   （8）xBPQ.json  纯xBPQ源，jar包和配置来源于菜妮丝；
+   
+   （9）1.json  测试用的配置，慎用；
+   
+   （10）9918.json  nsfw的源，慎用，jar的来源fongmi的jar包。
+   
+   APP推荐使用q215613905版本（项目地址：https://github.com/q215613905/TVBoxOS ）和FongMi（项目地址：https://github.com/FongMi/TV ）版本，[DRPY]数据源、直播转点播适用于q215613905版，直播多线路适用于FongMi版。
+2. diyp配置：
 
-- 2.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico2_50.jpg) 新UI部分区别 - [TVBox_20221005-2255-takagen99.apk](https://liucn.lanzouv.com/iXLfq0dccr3i)
+   （1）list.txt  线路一；
+   
+   （2）iptv.txt  线路二；
+   
+   （3）live.txt  线路三。
+   
+   以上配置原名称为绿色直播源；****x.txt为nsfw直播源，慎用；****xx.txt为测试用直播源，慎用。
+3. kodi插件及配置：
 
-- 3.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico3_50.jpg) 二次开发改版 - [Pluto-Player_v1.5.2正式版.apk](https://liucn.lanzouv.com/i7otG0cmgvob)
+   （1）plugin.video.ysdq.zip  kodi插件影视大全by小明；
+   
+   （2）plugin.video.ysdqg.zip  kodi插件影视大全（改）by霜辉月明;
 
+   （1）YSDQ.json  影视大全（改）的配置文件;
+   
+   （2）list.m3u  PVR IPTV Simple 直播源，绿色源;
+   
+   （3）listx.m3u  PVR IPTV Simple 直播源，nsfw源，慎用。
+4. TVBox各路大佬配置（排名不分先后）：
+    
+   （1）唐三：https://hutool.ml/tang
+   
+   （2）Fongmi：https://raw.fastgit.org/FongMi/CatVodSpider/main/json/config.json
+   
+   （3）俊于：http://home.jundie.top:81/top98.json
+   
+   （4）饭太硬：http://饭太硬.ga/x/o.json
+   
+   （5）霜辉月明py：https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json
+   
+   （6）小雅dr：http://drpy.site/js1
+   
+   （7）菜妮丝：https://tvbox.cainisi.cf
+   
+   （8）神器：https://神器每日推送.tk/pz.json
+   
+   （9）巧技：http://pandown.pro/tvbox/tvbox.json
+   
+   （10）刚刚：http://刚刚.live/猫
+ 
+   （11）吾爱有三：http://52bsj.vip:98/0805
+   
+   （12）潇洒：https://download.kstore.space/download/2863/01.txt
+   
+   （13）佰欣园：https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt   
+   
+   （14）胖虎：https://notabug.org/imbig66/tv-spider-man/raw/master/配置/0801.json
+    
+   （15）云星日记：https://maoyingshi.cc/tiaoshizhushou/1.txt
+                  
+   （16）Yoursmile7：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
+   
+   （17）BOX：http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0
+   
+   （18）哔哩学习：http://52bsj.vip:81/api/v3/file/get/41063/bili.json?sign=TxuApYZt6bNl9TzI7vObItW34UnATQ4RQxABAEwHst4%3D%3A0
+   
+   （19）UndCover：https://raw.githubusercontent.com/UndCover/PyramidStore/main/py.json
+   
+   （20）木极：https://pan.tenire.com/down.php/2664dabf44e1b55919f481903a178cba.txt  
+   
+   （21）Ray：https://dxawi.github.io/0/0.json
+   
+   （22）甜蜜：https://kebedd69.github.io/TVbox-interface/py甜蜜.json
+   
+   （23）52bsj：http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0
+5. 随机轮换壁纸：
 
-下载地址 | 使用设置 
----------|---------
-[TVbox开源版---密123](https://tsq.lanzouf.com/b0c4nr91c#123)<br />[夸克下载](https://pan.quark.cn/s/4990bab723a1)<br />一一一一一一一一一一一一一一一一一一一一一一一<br />[Pluto Player改版](https://pan.quark.cn/s/d5d888f3e25d)<br />[仓库下载](https://github.com/pluto-player/updates)<br />一一一一一一一一一一一一一一一一一一一一一一一<br />[懒人版小苹果](https://liucn.lanzouv.com/iFIQ40c484dc)<br />[内置源](http://xpgtv.com) |1). 配置地址---输入站源---确定即可<br /> URL站源规则 `https://raw.liucn.cc/box/m.json` <br />一一一一一一一一一一一一一一一一一一一一一一一<br />2). 开启存储权限——将源接口文件放到根目录文件夹<br /> `资源更新快，几乎没人用这个方法`<br />一一一一一一一一一一一一一一一一一一一一一一一<br />3). 自行复刻、新建仓库、制作上传 获取链接<br />  `别忘记改源地址，防止不能使用` 
+   （1）https://bing.img.run/rand.php
+   
+   （2）http://www.kf666888.cn/api/tvbox/img
+   
+   （3）https://picsum.photos/1280/720/?blur=10
+      
+   （4）http://刚刚.live/图 
+  
+   （5）http://饭太硬.ga/深色壁纸/api.php
+ 
+   （6）https://www.dmoe.cc/random.php
+      
+   （7）https://api.btstu.cn/sjbz/zsy.php
+      
+   （8）https://api.btstu.cn/sjbz/?lx=dongman
+      
+   （9）http://api.btstu.cn/sjbz/?lx=meizi
+      
+   （10）http://api.btstu.cn/sjbz/?lx=suiji
+   
+   （11）https://pictures.catvod.eu.org/
 
-TVbox开源版 |Pluto Player改版
----------|---------
-![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/box011.jpg) | ![Pluto](https://raw.iqiq.io/liu673cn/box/main/sub/img/Pluto02.jpg)
-![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/box021.jpg) | ![Pluto](https://raw.iqiq.io/liu673cn/box/main/sub/img/Pluto041.jpg)
-![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/box031.jpg) | ![Pluto](https://raw.iqiq.io/liu673cn/box/main/sub/img/Pluto03.jpg)
+如果喜欢，请复刻自用，切勿传播。谢谢！
 
-MXPlayer-Pro-1.46.10高级解锁版   
-[https://liucn.lanzouv.com/ixhSy097prod](https://liucn.lanzouv.com/ixhSy097prod)  
-[https://tsq.lanzouf.com/b0c4p1nyf](https://tsq.lanzouf.com/b0c4p1nyf) 密 123   
-
-[道长dr_py搭建图文演示教程](http://www.liucn.cc/83.html),经过测试Replit免费搭建的站点 只能自用，人多就会爆表。  
-
-------
-### 开源仓库
-https://github.com/  
-https://gitlab.com/  
-
-https://gitee.com/  
-https://coding.net/  
-
-https://gitcode.net/  
-https://gitea.com/  仓库名是 mao,tvbox,box,tv等类似的，有几率出现 1.删除仓库 2.删除用户 3.封禁账户 4.黑名单  
-https://agit.ai/  
-https://notabug.org/  
-
-EGP源  
-http://epg.51zmt.top:8000/e.xml  
-https://epg.112114.xyz/pp.xml  
-
-------
-### 给英文不好的朋友
-GitHub 中文化插件 https://greasyfork.org/zh-CN/scripts/435208  
-Github 增强 - 高速下载https://greasyfork.org/zh-CN/scripts/412245  
-
-### Github RAW 加速服务
-
-源码   `https://gitcdn.top/https://github.com/liu673cn/box/raw/main/m.json`  
-香港   `https://raw.iqiq.io/liu673cn/box/main/m.json`  
-新加坡 `https://raw.kgithub.com/liu673cn/box/main/m.json`  
-日本  
-`https://fastly.jsdelivr.net/gh/liu673cn/box@main/m.json`  
-`https://cdn.staticaly.com/gh/liu673cn/box/main/m.json`  
-`https://raw.fastgit.org/liu673cn/box/main/m.json`  
-韩国  
-`https://ghproxy.com/https://raw.githubusercontent.com/liu673cn/box/main/m.json`  
-`https://ghproxy.net/https://raw.githubusercontent.com/liu673cn/box/main/m.json`  
-
-`https://gcore.jsdelivr.net/gh/liu673cn/box@main/m.json`  
-`https://raw.githubusercontents.com/liu673cn/box/main/m.json`  
-
-### Github 静态加速  
-`https://cdn.staticaly.com/gh/liu673cn/box/main/m.json`  
-
-`https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json`  
-
-`https://purge.jsdelivr.net/gh/`  
-
-------
-### 以上为互联网流传资源，不保证内容的真实性和可靠性。本页面只是收集[Box](https://docs.qq.com/sheet/DWmt2RklvT3lYZ3dM?tab=BB08J2)，自用请勿宣传。
-
+尽自己所能更新，不保证配置的有效性和时效性。
+   
