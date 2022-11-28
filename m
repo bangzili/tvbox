@@ -277,7 +277,7 @@
       "key": "t4_合集",
       "name": "📡合集(T4)",
       "type": 4,
-      "api": "https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10",
+      "api": "https://t4.secan.icu/vod?sites=all&ali_token=57a6d0febcba41c480eb14be6cfcb6f7&timeout=10",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -286,7 +286,7 @@
       "key": "t4_聚合",
       "name": "📡聚合(T4)",
       "type": 4,
-      "api": "https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=5",
+      "api": "https://t4.secan.icu/vod?sites=all&ali_token=57a6d0febcba41c480eb14be6cfcb6f7&timeout=5",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
