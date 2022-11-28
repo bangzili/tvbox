@@ -299,7 +299,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://windwang.netlify.app/sub/ext/token.txt"
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
     },
     {
       "key": "csp_Upyunso",
@@ -309,7 +309,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://windwang.netlify.app/sub/ext/token.txt"
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
     },
     {
       "key": "csp_AliPS",
@@ -319,7 +319,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://windwang.netlify.app/sub/ext/token.txt"
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
     },
     {
       "key": "csp_FindZY",
@@ -329,7 +329,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://windwang.netlify.app/sub/ext/token.txt"
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
     },
     {
       "key": "csp_Yiso",
@@ -339,7 +339,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://windwang.netlify.app/sub/ext/token.txt"
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
     },
     {
       "key": "csp_alist",
