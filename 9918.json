@@ -1,5 +1,5 @@
 {
-"spider":"./jar/custom_spider.jar;md5;ad5e07a700c8b50e0eb03e20422c788d",
+"spider":"./jar/custom_spider.jar;md5;906b337d4b4baef13292d004e5fd8f9b",
 "lives":[{"name":"节目线路一","type":0,"url":"./listx.txt"},
 {"name":"节目线路二","type":0,"url":"./listx.m3u"}],
 "wallpaper":"https://gao.chuqiuyu.tk",
@@ -108,4 +108,4 @@
 {"key":"sewozyapi.com","name":"成人70","type":1,"api":"https://sewozyapi.com/api.php/provide/vod/","searchable":1,"filterable":1},
 {"key":"api.apilyzy.com","name":"成人71","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":1,"filterable":1},
 {"key":"cj.apiabzy.com","name":"成人72","type":1,"api":"http://cj.apiabzy.com/api.php/provide/vod/","searchable":1,"filterable":1},
-{"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":1,"filterable":1,"ext":"http://ali.xn--sss604efuw.ml/tok"}]}
+{"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":1,"filterable":1,"ext":"http://ali.饭太硬.ml/tok"}]}

@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;ad5e07a700c8b50e0eb03e20422c788d",
+  "spider": "./jar/custom_spider.jar;md5;906b337d4b4baef13292d004e5fd8f9b",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
     {
@@ -13,6 +13,15 @@
     {
       "key": "AList",
       "name": "AList",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "filterable": 1,
+      "ext": "./json/Alist.json"
+    },
+    {
+      "key": "AList1",
+      "name": "AList1",
       "type": 3,
       "api": "csp_AList",
       "searchable": 1,
@@ -115,7 +124,7 @@
       "api": "csp_Paper",
       "searchable": 1,
       "filterable": 1,
-      "ext": "http://ali.xn--sss604efuw.ml/tok"
+      "ext": "http://ali.饭太硬.ml/tok"
     },
     {
       "key": "易搜",
@@ -124,7 +133,7 @@
       "api": "csp_YiSo",
       "searchable": 1,
       "filterable": 0,
-      "ext": "http://ali.xn--sss604efuw.ml/tok"
+      "ext": "http://ali.饭太硬.ml/tok"
     },
     {
       "key": "盤搜",
@@ -133,7 +142,7 @@
       "api": "csp_PanSou",
       "searchable": 1,
       "filterable": 0,
-      "ext": "http://ali.xn--sss604efuw.ml/tok"
+      "ext": "http://ali.饭太硬.ml/tok"
     },
     {
       "key": "push_agent",
@@ -142,7 +151,7 @@
       "api": "csp_Push",
       "searchable": 1,
       "filterable": 0,
-      "ext": "http://ali.xn--sss604efuw.ml/tok"
+      "ext": "http://ali.饭太硬.ml/tok"
     }
   ]
 }
