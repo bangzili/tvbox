@@ -1,5 +1,5 @@
 {
-"spider":"./jar/custom_spider.jar;md5;906b337d4b4baef13292d004e5fd8f9b",
+"spider":"./jar/custom_spider.jar;md5;e889b257fb9dbaf519f3c095231c12ea",
 "lives":[{"name":"节目线路一","type":0,"url":"./listx.txt"},
 {"name":"节目线路二","type":0,"url":"./listx.m3u"}],
 "wallpaper":"https://gao.chuqiuyu.tk",
@@ -27,8 +27,8 @@
 {"key":"kd","name":"酷豆","type":0,"api":"https://api.kdapi.info/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"kulunli","name":"酷伦理","type":1,"api":"https://api.kudian70.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"drpy_js_猫了个咪","name":"猫了个咪","type":3,"api":"./lib/drpy.js","ext":"./js/猫了个咪.js"},
-{"key":"drpy_js_banan","name":"banan","type":3,"api":"./lib/drpy.min.js","ext":"./js/banan.js"},
-{"key":"drpy_js_Missav","name":"Missav","type":3,"api":"./lib/drpy.min.js","ext":"./js/Missav.js"},
+{"key":"drpy_js_跑TV","name":"跑TV","type":3,"api":"./lib/drpy.js","ext":"./js/跑TV.js"},
+{"key":"drpy_js_苹果爱微","name":"苹果爱微","type":3,"api":"./lib/drpy.js","ext":"./js/苹果爱微.js"},
 {"key":"drpy_js_18av","name":"18av","type":3,"api":"./lib/drpy.min.js","ext":"./js/18av.js"},
 {"key":"麻豆传媒","name":"麻豆传媒","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/madou.json","jar":"./jar/xo.jar"},
 {"key":"Gaoav","name":"Gaoav","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/Gaoav.json","jar":"./jar/xo.jar"},
